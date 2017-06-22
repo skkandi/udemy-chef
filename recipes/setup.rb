@@ -3,6 +3,7 @@ package 'tree' do
 end
 
 package 'git'
+package 'emacs'
 
 package 'ntp' do
     action :install
